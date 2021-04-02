@@ -1,0 +1,56 @@
+img {
+    float: left;
+    max-width: 400px;
+    max-height: 600px;
+    margin: 15px;
+}
+select#year {
+    margin-right: 10px;
+    margin-top: 6px;
+}
+select.nav-item {
+    margin-top: 6px;
+}
+li.nav-item {
+    margin-top: 6px;
+    margin-right: 10px;
+    margin-left: 5px;
+}
+img {
+    float: left;
+    max-width: 400px;
+    max-height: 600px;
+    margin: 15px;
+}.row {
+    display: block;
+}
+
+.container {
+    display: block;
+}
+
+div {display: block;float: left;margin: 0px;}
+
+.container {}
+select#year {
+    margin-right: 10px;
+    margin-top: 6px;
+}
+select.nav-item {
+    margin-top: 6px;
+}
+li.nav-item {
+    margin-top: 6px;
+    margin-right: 10px;
+    margin-left: 5px;
+}.row {
+    display: block;
+}
+
+.container {
+    display: block;
+}
+
+div {display: block;float: left;margin: 0px;}
+
+.container {}
